@@ -1,0 +1,62 @@
+body {
+  font-family: "Butler", sans-serif;
+  margin: 0;
+  color: #000;
+  background-color: white;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
+
+section {
+  height: 100vh;
+  min-height: 600px;
+  text-align: center;
+  line-height: 100vh;
+}
+
+.container {
+  max-width: 1065px;
+  background-image: url(../img/1.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% auto;
+  margin: auto;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  position: absolute;
+}
+
+.studio-card {
+  font-size: 5.5rem;
+  padding: 1.5em 0.5em 1.4em;
+  background-color: white;
+  display: inline-block;
+  text-align: center;
+  line-height: 1.15;
+  position: relative;
+  vertical-align: middle;
+}
+
+h1 {
+  font-family: "Butler", sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+}
+
+h2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 1.125rem;
+  margin-top: 1em;
+  position: absolute;
+  text-align: center;
+  right: 0;
+  left: 0;
+}
