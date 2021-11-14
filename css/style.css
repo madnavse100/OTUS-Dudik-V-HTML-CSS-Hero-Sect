@@ -70,7 +70,7 @@ p {
   max-height: 900px;
   padding-left: 8rem;
   padding-right: 8rem;
-  border: 2px solid red;
+  /*border: 2px solid red;*/
   position: relative;
 }
 
@@ -143,3 +143,5 @@ span {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
 }
+
+/*End 2st page*/
